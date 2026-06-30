@@ -167,16 +167,6 @@ NumPy • Pandas • Matplotlib • Scikit-Learn
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth5005&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🏆 GitHub Trophy
 
 <p align="center">
@@ -191,7 +181,7 @@ NumPy • Pandas • Matplotlib • Scikit-Learn
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarth5005&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthbirajdar2201-blip&theme=tokyo-night"/>
 
 </p>
 
