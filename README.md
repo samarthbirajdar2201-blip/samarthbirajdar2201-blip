@@ -155,28 +155,6 @@ NumPy • Pandas • Matplotlib • Scikit-Learn
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samarth5005&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth5005&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Samarth5005&theme=algolia&row=1"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
